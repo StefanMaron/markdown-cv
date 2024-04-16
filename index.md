@@ -1,91 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Stefan Maron's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Stefan Maroń
+Dynamics 365 Business Central Developer
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+I am a passionate Dynamics 365 Business Central Developer with 8 years of expieriance working at different partners and in different Projects. I am active in the Business Central Comunity on Github and X/Twitter. And I am a speaker at BC Tech days and Directions EMEA.
 
+## SOCIAL PROFILES
+  * GitHub: https://github.com/StefanMaron/
+  * X/Twitter: https://twitter.com/
+  * Blog: https://stefanmaron.com/
 
-## Currently
+## LANGUAGES
+  - ★★★★★ German
+  - ★★★★☆ English
+  - ★★☆☆☆ Polish
 
-Standing on the shoulders of giants
+## SKILLS
+  - solution architecture
+  - Dynamics NAV/Business Central
+  - IT strategy
+  - Mentoring developers
 
-### Specialized in
+## WORK EXPERIENCE
+  * March 2022 – Present
+    Dynamics 365 Business Central Developer at Stefan Maron Consulting, 
+      As a freelance Dynamics 365 Business Central Developer I am working with various Dynamics Partners and helping with their Customer Implementations. I am responsible for every technical aspect in those projects. From Solution design and estimation, over implementation of a customization, to testing and long time support.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+  * January 2020 – February 2022
+    Dynamics 365 Business Central Developer at ORBIT Gesellschaft für Applikations- und Informationssysteme mbH, 
+      As a Dynamics 365 Business Central Developer at ORBIT Gesellschaft für Applikations- und Informationssysteme mbH, I played a key role the transition to AL. Helping the new collegues to get to know AL and what the differences are compared to NAV and C/AL. I helped to setup Source control and pipelines. I successfully implemented a customer project in the goods trading sector.
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+  * July 2016 – December 2019
+    Dynamics 365 Business Central Developer at synalis GmbH & CO. KG, 
+      At synalis GmbH &amp; CO. KG, I was part of small team of consultants and developers. I helped to implement a number of smaller customers, and supported customers with previous implementations. Main responsibilities also included to integrate with the "outside world". I helped to implement the first CI/CD pipelines on Devops and helped with the first steps of transitioning from nav and C/AL to Business Central, Docker and AL
 
 
+## EDUCATION
+  * August 2012 – July 2013
+    Nell-Breuning-Berufskolleg,  Fachabitur Wirtschaft und Verwaltung
+  * August 2013 – July 2016
+    myvision Software GmbH,  Fachinformatiker Anwendungsentwicklung
 
-## Awards
+## COURSES
+  * January 2024
+    MB-820: Microsoft Dynamics 365 Business Central Developer, Microsoft
 
-`2012`
-President, *Royal Society*, London, UK
+## COMMUNITY WORK
+  * **MSDyn365BC.Code.History**
 
-Associate, *French Academy of Science*, Paris, France
+    I am the creator and maintainer of the MSDyn365BC.Code.History repository on Github. Its the only resource currently available to track changes and compare versions in Microsofts Base App code for Business Central
+  * **BusinessCentral.LinterCop**
 
+    I created the first working Open Source custom code analyzer for the AL Language. Its used to warn and inform the Developer about potential code issues and help to stay in line with the current coding guidelines.
+  * **MSDyn365BC.Ntfy**
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+    I am currently working on an Open Source app for Business Central which lets the user easily set up push notifications for various events in Business Central. Like the release of a Sales Order, if a certain report finished processing, or if an Approval was requested.
